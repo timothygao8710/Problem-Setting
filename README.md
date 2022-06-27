@@ -1,7 +1,8 @@
 # Problem-Setting
-The (hopefully good) problems that I have created for various programming competitions, with test data and editorials.
+Problems I've written for various programming competitions, to give back to the competitive programming community. Code, Editorial, and Test Data are included.
 
-My goal with the editorials I've written is to not just reveal the solution, but also explain **why** it works and shed light on the intuition behind **how** I arrived at the solution (my thought process).
+My goal with editorials is to not just reveal the solution, but also explain **why** it works and shed light on the intuition behind **how** I arrived at the solution (my thought process).
+
 
 ## Problems
 
