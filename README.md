@@ -3,6 +3,7 @@ This repository contains the problems I've written for various programming compe
 
 My goal with editorials is to not just reveal the solution, but also explain **why** it works and shed light on the intuition behind **how** I arrived at the solution (my thought process).
 
+[test](test.com)
 
 ## Problems
 
